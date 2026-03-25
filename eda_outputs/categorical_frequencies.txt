@@ -1,0 +1,457 @@
+
+================================================================================
+Name
+================================================================================
+                   Count  Percentage
+Name                                
+Willie Wilson          1    0.310559
+Andy Allanson          1    0.310559
+Tim Raines             1    0.310559
+Terry Puhl             1    0.310559
+Tony Phillips          1    0.310559
+Tony Perez             1    0.310559
+Terry Pendleton        1    0.310559
+Tony Pena              1    0.310559
+Tom Paciorek           1    0.310559
+Tom O'Malley           1    0.310559
+Tim Laudner            1    0.310559
+Tito Landrum           1    0.310559
+Terry Kennedy          1    0.310559
+Tim Hulett             1    0.310559
+Tommy Herr             1    0.310559
+Toby Harrah            1    0.310559
+Terry Harper           1    0.310559
+Tony Gwynn             1    0.310559
+Brook Jacoby           1    0.310559
+Bob Horner             1    0.310559
+Billy Hatcher          1    0.310559
+Bobby Grich            1    0.310559
+Brian Downing          1    0.310559
+Bill Doran             1    0.310559
+Bo Diaz                1    0.310559
+Bob Dernier            1    0.310559
+Brett Butler           1    0.310559
+Bill Buckner           1    0.310559
+Bob Brenly             1    0.310559
+Bob Boone              1    0.310559
+Bobby Bonilla          1    0.310559
+Barry Bonds            1    0.310559
+Bruce Bochy            1    0.310559
+Bruce Bochte           1    0.310559
+Chili Davis            1    0.310559
+Cecil Cooper           1    0.310559
+Carmen Castillo        1    0.310559
+Chris Brown            1    0.310559
+Chris Bando            1    0.310559
+Butch Wynegar          1    0.310559
+Bill Schroeder         1    0.310559
+Billy Sample           1    0.310559
+Bill Russell           1    0.310559
+Billy Jo Robidoux      1    0.310559
+Bip Roberts            1    0.310559
+Ben Oglivie            1    0.310559
+Bob Melvin             1    0.310559
+Bobby Meacham          1    0.310559
+Bill Madlock           1    0.310559
+Bob Kearney            1    0.310559
+Don Baylor             1    0.310559
+Doug Baker             1    0.310559
+Dave Anderson          1    0.310559
+Curt Wilkerson         1    0.310559
+Chris Speier           1    0.310559
+Cory Snyder            1    0.310559
+Cal Ripken             1    0.310559
+Craig Reynolds         1    0.310559
+Charlie Moore          1    0.310559
+Carmelo Martinez       1    0.310559
+Candy Maldonado        1    0.310559
+Chet Lemon             1    0.310559
+Carney Lansford        1    0.310559
+Cliff Johnson          1    0.310559
+Curt Ford              1    0.310559
+Carlton Fisk           1    0.310559
+Davey Lopes            1    0.310559
+Dave Kingman           1    0.310559
+Donnie Hill            1    0.310559
+Dave Henderson         1    0.310559
+Danny Heep             1    0.310559
+Dan Gladden            1    0.310559
+Damaso Garcia          1    0.310559
+Dwight Evans           1    0.310559
+Darrell Evans          1    0.310559
+Doug DeCinces          1    0.310559
+Darren Daulton         1    0.310559
+Dave Concepcion        1    0.310559
+Dave Collins           1    0.310559
+Darnell Coles          1    0.310559
+Daryl Boston           1    0.310559
+Dann Bilardello        1    0.310559
+Enos Cabell            1    0.310559
+Dave Winfield          1    0.310559
+Denny Walling          1    0.310559
+Dickie Thon            1    0.310559
+Danny Tartabull        1    0.310559
+Dale Sveum             1    0.310559
+Darryl Strawberry      1    0.310559
+Don Slaught            1    0.310559
+Dick Schofield         1    0.310559
+Darrell Porter         1    0.310559
+Dan Pasqua             1    0.310559
+Dave Parker            1    0.310559
+Dwayne Murphy          1    0.310559
+Dale Murphy            1    0.310559
+Darryl Motley          1    0.310559
+Don Mattingly          1    0.310559
+Glenn Davis            1    0.310559
+Gary Carter            1    0.310559
+Greg Brock             1    0.310559
+George Brett           1    0.310559
+Glenn Braggs           1    0.310559
+George Bell            1    0.310559
+Frank White            1    0.310559
+Franklin Stubbs        1    0.310559
+Floyd Rayford          1    0.310559
+Fred Lynn              1    0.310559
+Ernie Whitt            1    0.310559
+Ed Romero              1    0.310559
+Ernest Riles           1    0.310559
+Eddie Murray           1    0.310559
+Eddie Milner           1    0.310559
+Eric Davis             1    0.310559
+Harold Baines          1    0.310559
+Glenn Wilson           1    0.310559
+Gary Ward              1    0.310559
+Greg Walker            1    0.310559
+Gorman Thomas          1    0.310559
+Garry Templeton        1    0.310559
+Gary Redus             1    0.310559
+Gary Pettis            1    0.310559
+Graig Nettles          1    0.310559
+Gary Matthews          1    0.310559
+Garth Iorg             1    0.310559
+Glenn Hubbard          1    0.310559
+George Hendrick        1    0.310559
+Greg Gagne             1    0.310559
+Gary Gaetti            1    0.310559
+George Foster          1    0.310559
+Jody Davis             1    0.310559
+Julio Cruz             1    0.310559
+Jose Cruz              1    0.310559
+Jack Clark             1    0.310559
+Joe Carter             1    0.310559
+Jose Canseco           1    0.310559
+John Cangelosi         1    0.310559
+Juan Bonilla           1    0.310559
+Juan Beniquez          1    0.310559
+Jesse Barfield         1    0.310559
+Herm Winningham        1    0.310559
+Harry Spilman          1    0.310559
+Harold Reynolds        1    0.310559
+Hal McRae              1    0.310559
+Howard Johnson         1    0.310559
+Hubie Brooks           1    0.310559
+Johnny Ray             1    0.310559
+Jamie Quirk            1    0.310559
+Jim Presley            1    0.310559
+Jorge Orta             1    0.310559
+Joe Orsulak            1    0.310559
+Jerry Mumphrey         1    0.310559
+John Moses             1    0.310559
+Jim Morrison           1    0.310559
+Jeffrey Leonard        1    0.310559
+John Kruk              1    0.310559
+Jack Howell            1    0.310559
+Jerry Hairston         1    0.310559
+Johnny Grubb           1    0.310559
+Jim Gantner            1    0.310559
+Julio Franco           1    0.310559
+Jim Dwyer              1    0.310559
+Kirk Gibson            1    0.310559
+Kal Daniels            1    0.310559
+Kevin Bass             1    0.310559
+Joel Youngblood        1    0.310559
+Jerry Willard          1    0.310559
+Jose Uribe             1    0.310559
+Jim Traber             1    0.310559
+Jim Sundberg           1    0.310559
+Jeff Stone             1    0.310559
+Joel Skinner           1    0.310559
+John Shelby            1    0.310559
+Juan Samuel            1    0.310559
+John Russell           1    0.310559
+Jerry Royster          1    0.310559
+Jim Rice               1    0.310559
+Jeff Reed              1    0.310559
+Len Matuszek           1    0.310559
+Lee Lacy               1    0.310559
+Larry Herndon          1    0.310559
+Len Dykstra            1    0.310559
+Leon Durham            1    0.310559
+Kurt Stillwell         1    0.310559
+Kirby Puckett          1    0.310559
+Ken Phelps             1    0.310559
+Ken Oberkfell          1    0.310559
+Keith Moreland         1    0.310559
+Kevin Mitchell         1    0.310559
+Kevin McReynolds       1    0.310559
+Ken Landreaux          1    0.310559
+Kent Hrbek             1    0.310559
+Keith Hernandez        1    0.310559
+Ken Griffey            1    0.310559
+Mel Hall               1    0.310559
+Mike Fitzgerald        1    0.310559
+Mike Easler            1    0.310559
+Mariano Duncan         1    0.310559
+Mike Diaz              1    0.310559
+Mike Davis             1    0.310559
+Mike Brown             1    0.310559
+Marty Barrett          1    0.310559
+Mike Aldrete           1    0.310559
+Lou Whitaker           1    0.310559
+Lonnie Smith           1    0.310559
+Larry Sheets           1    0.310559
+Luis Rivera            1    0.310559
+Larry Parrish          1    0.310559
+Lance Parrish          1    0.310559
+Lloyd Moseby           1    0.310559
+Nick Esasky            1    0.310559
+Mike Young             1    0.310559
+Marvell Wynne          1    0.310559
+Mookie Wilson          1    0.310559
+Mitch Webster          1    0.310559
+Milt Thompson          1    0.310559
+Mickey Tettleton       1    0.310559
+Mike Scioscia          1    0.310559
+Mike Schmidt           1    0.310559
+Mark Salas             1    0.310559
+Mike Pagliarulo        1    0.310559
+Mike Marshall          1    0.310559
+Mike LaValliere        1    0.310559
+Mike Kingery           1    0.310559
+Mike Heath             1    0.310559
+Mickey Hatcher         1    0.310559
+Randy Bush             1    0.310559
+Rick Burleson          1    0.310559
+Rafael Belliard        1    0.310559
+Pat Tabler             1    0.310559
+Pat Sheridan           1    0.310559
+Pete Rose              1    0.310559
+Pete O'Brien           1    0.310559
+Paul Molitor           1    0.310559
+Pete Incaviglia        1    0.310559
+Phil Garner            1    0.310559
+Phil Bradley           1    0.310559
+Ozzie Virgil           1    0.310559
+Ozzie Smith            1    0.310559
+Omar Moreno            1    0.310559
+Oddibe McDowell        1    0.310559
+Ozzie Guillen          1    0.310559
+Rance Mulliniks        1    0.310559
+Rick Manning           1    0.310559
+Rick Leach             1    0.310559
+Rudy Law               1    0.310559
+Randy Kutcher          1    0.310559
+Ray Knight             1    0.310559
+Ron Kittle             1    0.310559
+Ruppert Jones          1    0.310559
+Reggie Jackson         1    0.310559
+Rickey Henderson       1    0.310559
+Ron Hassey             1    0.310559
+Rich Gedman            1    0.310559
+Rick Dempsey           1    0.310559
+Rob Deer               1    0.310559
+Ron Cey                1    0.310559
+Rick Cerone            1    0.310559
+Scott Bradley          1    0.310559
+Steve Balboni          1    0.310559
+Robin Yount            1    0.310559
+Reggie Williams        1    0.310559
+Rob Wilfong            1    0.310559
+Robby Thompson         1    0.310559
+Roy Smalley            1    0.310559
+Ruben Sierra           1    0.310559
+Rick Schu              1    0.310559
+Rafael Santana         1    0.310559
+Ryne Sandberg          1    0.310559
+Ron Roenicke           1    0.310559
+R.J. Reynolds          1    0.310559
+Rafael Ramirez         1    0.310559
+Rey Quinones           1    0.310559
+Ron Oester             1    0.310559
+Tom Foley              1    0.310559
+Tim Flannery           1    0.310559
+Tony Fernandez         1    0.310559
+Tom Brunansky          1    0.310559
+Tom Brookens           1    0.310559
+Tony Bernazard         1    0.310559
+Tony Armas             1    0.310559
+Steve Sax              1    0.310559
+Spike Owen             1    0.310559
+Steve Lombardozzi      1    0.310559
+Steve Jeltz            1    0.310559
+Steve Garvey           1    0.310559
+Scott Fletcher         1    0.310559
+Shawon Dunston         1    0.310559
+Steve Buechele         1    0.310559
+Sid Bream              1    0.310559
+Alan Ashby             1    0.310559
+Willie Upshaw          1    0.310559
+Wayne Tolleson         1    0.310559
+Willie Randolph        1    0.310559
+Willie McGee           1    0.310559
+Wayne Krenchicki       1    0.310559
+Wally Joyner           1    0.310559
+Will Clark             1    0.310559
+Wade Boggs             1    0.310559
+Wally Backman          1    0.310559
+Vance Law              1    0.310559
+Von Hayes              1    0.310559
+Vince Coleman          1    0.310559
+Tim Wallach            1    0.310559
+Tim Teufel             1    0.310559
+Ted Simmons            1    0.310559
+Buddy Biancalana       1    0.310559
+Buddy Bell             1    0.310559
+Billy Beane            1    0.310559
+Bill Almon             1    0.310559
+Alan Wiggins           1    0.310559
+Andy Van Slyke         1    0.310559
+Alex Trevino           1    0.310559
+Alan Trammell          1    0.310559
+Andre Thornton         1    0.310559
+Andres Thomas          1    0.310559
+Argenis Salazar        1    0.310559
+Al Newman              1    0.310559
+Alfredo Griffin        1    0.310559
+Andres Galarraga       1    0.310559
+Andre Dawson           1    0.310559
+Alvin Davis            1    0.310559
+
+Total unique values: 322
+
+================================================================================
+League_1986
+================================================================================
+             Count  Percentage
+League_1986                   
+A              175   54.347826
+N              147   45.652174
+
+Total unique values: 2
+
+================================================================================
+Division_1986
+================================================================================
+               Count  Percentage
+Division_1986                   
+W                165   51.242236
+E                157   48.757764
+
+Total unique values: 2
+
+================================================================================
+Team_1986
+================================================================================
+           Count  Percentage
+Team_1986                   
+N.Y.          24    7.453416
+Chi.          24    7.453416
+Bal.          15    4.658385
+Mon.          14    4.347826
+L.A.          14    4.347826
+K.C.          14    4.347826
+Mil.          14    4.347826
+S.F.          14    4.347826
+Tex.          13    4.037267
+Cal.          13    4.037267
+S.D.          13    4.037267
+Min.          13    4.037267
+Cle.          12    3.726708
+Sea.          12    3.726708
+Oak.          12    3.726708
+Det.          12    3.726708
+Cin.          12    3.726708
+Phi.          12    3.726708
+Atl.          11    3.416149
+Hou.          11    3.416149
+St.L.         11    3.416149
+Pit.          11    3.416149
+Tor.          11    3.416149
+Bos.          10    3.105590
+
+Total unique values: 24
+
+================================================================================
+Position_1986
+================================================================================
+               Count  Percentage
+Position_1986                   
+C                 40   12.422360
+3B                32    9.937888
+1B                31    9.627329
+OF                31    9.627329
+2B                31    9.627329
+SS                30    9.316770
+CF                26    8.074534
+LF                25    7.763975
+RF                25    7.763975
+DH                16    4.968944
+UT                14    4.347826
+O1                 4    1.242236
+3S                 3    0.931677
+OS                 2    0.621118
+DO                 2    0.621118
+2S                 1    0.310559
+OD                 1    0.310559
+23                 1    0.310559
+3O                 1    0.310559
+CD                 1    0.310559
+32                 1    0.310559
+CS                 1    0.310559
+1O                 1    0.310559
+S3                 1    0.310559
+13                 1    0.310559
+
+Total unique values: 25
+
+================================================================================
+League_1987
+================================================================================
+             Count  Percentage
+League_1987                   
+A              176   54.658385
+N              146   45.341615
+
+Total unique values: 2
+
+================================================================================
+Team_1987
+================================================================================
+           Count  Percentage
+Team_1987                   
+N.Y.          24    7.453416
+Chi.          22    6.832298
+Pit.          16    4.968944
+S.F.          15    4.658385
+Bal.          15    4.658385
+K.C.          14    4.347826
+Min.          14    4.347826
+Mil.          14    4.347826
+Cle.          13    4.037267
+Phi.          13    4.037267
+Mon.          13    4.037267
+Oak.          13    4.037267
+L.A.          13    4.037267
+Det.          13    4.037267
+Tex.          12    3.726708
+Hou.          12    3.726708
+Cal.          12    3.726708
+Atl.          12    3.726708
+Sea.          11    3.416149
+Cin.          11    3.416149
+Bos.          11    3.416149
+S.D.          10    3.105590
+Tor.          10    3.105590
+St.L.          9    2.795031
+
+Total unique values: 24

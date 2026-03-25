@@ -1,0 +1,128 @@
+﻿Fichier "Baseball"
+
+Analyse des données salariales de joueurs de baseball
+
+======================================================================================
+Ce jeu de données décrit les salaires de joueurs de baseball des ligues majeures et la performance du joueur. 
+Dans l'étude initiale, plusieurs méthodes ont été utilisées pour étudier les relations entre le salaire des joueurs
+et leurs statistiques de performance.
+
+Les données se focalisent sur les batteurs (frappeurs) ayant régulièrement participé à des rencontres en 1986.
+Les données sur les salaires proviennent de Sports Illustrated, 20 avril 1987. Les statistiques de 1986 et de 
+carrière ont été tirées de The 1987 Baseball Encyclopedia Update publié par Collier Books, Macmillan Publishing 
+Company, New York.
+
+Ce jeu de données est particulier dans le sens où il a servi d'expérience pour un article scientifique dans lequel 
+15 groupes de statisticiens ont analysé ces mêmes données sur les salaires des joueurs de baseball des ligues 
+majeures. En examinant ce qu'ils ont fait, ce qui a fonctionné et ce qui a échoué, l'article s'est intéressé à 
+comprendre les forces et les faiblesses relatives des différentes approches d'analyse des données. 
+
+En fonction des analyses, les données ont besoin d'être transformées (ex. log), contiennent des valeurs aberrantes
+et présentent des relations non linéaires; une grande variété des techniques d'analyse de données peuvent donc 
+être utilisées, des plus simples aux plus complexes!
+
+La question sous-jacente de l'article était de tenter d'expliquer les différences de salaires des joueurs 
+de baseball et de répondre à la question «Les joueurs sont-ils payés en fonction de leurs performances?».
+
+Pour plus d'informations, voir l'article de Hoaglin & Velleman, 1995: "A Critical Look at Some Analyses of Major 
+League Baseball Salaries"
+
+======================================================================================
+There is one line per hitter.  Each data item is separated by a tab character. 
+The variables are: 
+
+Name = hitter's name,
+Bat_times_86 = number of times at bat in 1986
+Hits_86 = number of hits in 1986
+Home_runs_1986 = number of home runs in 1986
+Runs_1986 = number of runs in 1986
+Runs_batted_1986 = number of runs batted in 1986
+Walks_1986 = number of walks in 1986
+Longevity = number of years in the major leagues
+Bat_times_career =  number of times at bat during his career
+Hits_career = number of hits during his career
+Home_runs_career = number of home runs during his career
+Runs_career = number of runs during his career
+Runs_batted_career = number of runs batted in during his career
+Walks_career  = number of walks during his career
+League_1986 = player's league at the end of 1986
+Division_1986 = player's division at the end of 1986
+Team_1986 = player's team at the end of 1986
+Position_1986 = player's position(s) in 1986
+Put_outs_1986 = number of put outs in 1986
+Assists_1986 = number of assists in 1986
+Errors_1986 = number of errors in 1986
+Salary_1987 = 1987 annual salary on opening day in thousands of dollars
+League_1987 = player's league at the beginning of 1987
+Team_1987 = player's team at the beginning of 1987
+
+======================================================================================
+Equipe/Team: 
+N.Y. New York
+Phi. Philadelphia
+St.L.     St. Louis
+Mon. Montreal
+Chi. Chicago
+Pit. Pittsburgh
+Hou. Houston
+Cin. Cincinnati
+S.F. San Francisco
+S.D. San Diego
+L.A. Los Angeles
+Atl. Atlanta
+Bos. Boston
+Det. Detroit
+Tor. Toronto
+Cle. Cleveland
+Mil. Milwaukee
+Bal. Baltimore
+Cal. California
+Tex. Texas
+K.C. Kansas City
+Oak. Oakland
+Min. Minnesota
+Sea. Seattle
+
+======================================================================================
+Leagues:
+N = National
+A = American
+
+======================================================================================
+Division:
+W = West
+E = East
+
+======================================================================================
+Player's position(s):
+
+If a substitute played 70% of his games  at  one  position,  that  is the only position listed for him.  If he did 
+not play 70% of his games at one position, but played 90% of his  games at two position, he is listed with a 
+combination-position, such as "S2" for shortstop  and  second  base,  or "CO"  for  catcher and outfield.  
+If a player failed to meet either the 70% or 90% requirement listed above, he is listed as a utillity player ("UT"):
+
+1B =  First Base
+2B =  Second Base
+SS =  Short Stop
+3B =  Third Base
+RF =  Right Field
+CF =  Center Field
+LF =  Left Field
+C  =  Catcher
+DH =  Designated Hitter
+OF =  Outfield
+UT =  Utility
+OS =  Outfield and Short Stop
+3S =  Third Base and Short Stop
+13 =  First and Third Base
+3O =  Third Base and Outfield
+O1 =  Outfield and First Base
+S3 =  Short Stop and Third Base
+32 =  Third and Second Base
+DO =  Designated Hitter and Outfield
+OD =  Outfield and Designated Hitter
+CD =  Catcher and Designated Hitter
+CS =  Catcher and Short Stop
+23 =  Second and Third Base
+1O =  First Base and Outfield
+2S =  Second Base and Short Stop
