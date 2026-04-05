@@ -15,6 +15,7 @@ import statsmodels.api as sm
 from statsmodels.stats.outliers_influence import variance_inflation_factor
 import warnings
 from pathlib import Path
+from scipy.stats import shapiro
 
 warnings.filterwarnings('ignore')
 sns.set_style("whitegrid")
@@ -354,3 +355,18 @@ Generated files:
   5. 05_model4_predicted_vs_actual.png  — predicted vs actual Model 4
   6. 06_simple_regression_scatter.png   — scatter + regression line M1, M2, M3
 """)
+
+# ============================================================================
+# 13. SHAPIRO-WILK TEST — MODEL 4 RESIDUALS
+# ============================================================================
+
+stat, p = shapiro(model4.resid)
+print("\n" + "="*70)
+print("SHAPIRO-WILK TEST — MODEL 4 RESIDUALS")
+print("="*70)
+print(f"W = {stat:.4f}")
+print(f"p-value = {p:.4f}")
+if p > 0.05:
+    print("→ Résidus normalement distribués (H0 non rejetée, p > 0.05)")
+else:
+    print("→ Déviation significative de la normalité (H0 rejetée, p < 0.05)")
