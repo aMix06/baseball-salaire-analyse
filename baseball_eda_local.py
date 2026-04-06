@@ -575,3 +575,28 @@ print(f"1. Open your file explorer")
 print(f"2. Navigate to: {output_dir.absolute()}")
 print(f"3. Double-click any .png file to view it")
 print("="*80)
+
+# ============================================================================
+# EXTRA — Salary distribution only (for presentation)
+# ============================================================================
+
+fig, ax = plt.subplots(figsize=(8, 5))
+
+salary_data = df['Salary_1987'].dropna()
+
+ax.hist(salary_data, bins=30, edgecolor='black', alpha=0.7, color='steelblue')
+ax.axvline(salary_data.mean(), color='red', linestyle='--', linewidth=2, 
+           label=f'Moyenne: {salary_data.mean():.1f}')
+ax.axvline(salary_data.median(), color='green', linestyle='--', linewidth=2, 
+           label=f'Médiane: {salary_data.median():.1f}')
+
+ax.set_xlabel('Salary_1987 (milliers de dollars)', fontsize=11)
+ax.set_ylabel('Fréquence', fontsize=11)
+ax.set_title('Distribution des Salaires 1987', fontsize=13, fontweight='bold')
+ax.legend()
+ax.grid(True, alpha=0.3)
+
+plt.tight_layout()
+plt.savefig(output_dir / 'salary_distribution.png', dpi=150, bbox_inches='tight')
+print("✓ Saved: salary_distribution.png")
+plt.close()
