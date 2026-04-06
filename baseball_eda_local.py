@@ -600,3 +600,27 @@ plt.tight_layout()
 plt.savefig(output_dir / 'salary_distribution.png', dpi=150, bbox_inches='tight')
 print("✓ Saved: salary_distribution.png")
 plt.close()
+
+# ============================================================================
+# EXTRA — Salary boxplot only (for presentation)
+# ============================================================================
+
+fig, ax = plt.subplots(figsize=(6, 6))
+
+salary_data = df['Salary_1987'].dropna()
+
+bp = ax.boxplot(salary_data, vert=True, patch_artist=True)
+bp['boxes'][0].set_facecolor('lightblue')
+bp['boxes'][0].set_edgecolor('black')
+bp['medians'][0].set_color('red')
+bp['medians'][0].set_linewidth(2)
+
+ax.set_ylabel('Salary_1987 (milliers de dollars)', fontsize=11)
+ax.set_title('Box Plot : Salary_1987', fontsize=13, fontweight='bold')
+ax.set_xticks([])
+ax.grid(True, alpha=0.3, axis='y')
+
+plt.tight_layout()
+plt.savefig(output_dir / 'salary_boxplot.png', dpi=150, bbox_inches='tight')
+print("✓ Saved: salary_boxplot.png")
+plt.close()
