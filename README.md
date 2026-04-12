@@ -69,4 +69,7 @@ Output plots and statistics will be saved to the `eda_outputs/` folder.
 
 ## Authors
 
-Project completed in a group of 3 as part of the ARE Biostat course, Sorbonne University (2025–2026).
+Project completed by Anh Minh Ho, Bruno Meler and Mohamed Aziz Mrad as part of the ARE Biostat course, Sorbonne University (2025–2026).
+
+## Report
+[View the full report](docs/rapport_baseball.pdf)
